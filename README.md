@@ -9,7 +9,7 @@ capability. Timer and channel are configured within the attach() method.
 [Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32)<br>
 
 This library is tested with
-**Arduino IDE 1.8.13** and **Arduino_Core_STM32 1.8.0**.
+**Arduino IDE 1.8.13** and **Arduino_Core_STM32 1.9.0**.
 
 ## Installation
 Clone the repository to the Arduino libraries folder.
