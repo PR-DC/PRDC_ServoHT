@@ -1,0 +1,10 @@
+--------------------
+PRDC_ServoHT
+STM32 Servo Library using HardwareTimer from Arduino_Core_STM32
+--------------------
+
+Release 1.0.0, 27.02.2021.
+
+- Initial release
+
+--------------------
