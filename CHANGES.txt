@@ -3,7 +3,7 @@ PRDC_ServoHT
 STM32 Servo Library using HardwareTimer from Arduino_Core_STM32
 --------------------
 
-Release 1.0.1, 25.01.2022.
+Release 1.0.2, 25.01.2022.
 
 - Arduino library specification
 
