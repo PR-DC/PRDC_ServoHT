@@ -41,7 +41,7 @@
 #define INVALID_SERVO 255
 
 typedef struct  {
-  uint8_t nbr;            // a pin number from 0 to 255
+  uint16_t nbr;            // 16 bit pin number to enable alternative pin mappings
   uint8_t isActive;       // true if this channel is enabled, pin not pulsed if false
   uint8_t prevAttached;       // true if this channel is previusly attached
 } ServoPin_t;
